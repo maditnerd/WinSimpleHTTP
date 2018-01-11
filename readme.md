@@ -18,3 +18,5 @@ web
 Share the current folder on port 8000.
 
 https://github.com/maditnerd/WinSimpleHTTP/releases/download/1.0/web.exe
+
+Source: https://docs.python.org/2/library/simplehttpserver.html
